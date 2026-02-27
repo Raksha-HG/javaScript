@@ -40,3 +40,18 @@ console.log(str3)
 console.log("1"+2);
 console.log("1"+2+2);
 console.log(1+2+"2");
+
+
+/*************************PRECENDENCE OPERATOR******************************* */
+
+let x=90;
+x++;
+//console.log(x);
+
+let a=9;
+let b=a++
+console.log("a=>"+a +"b=>"+b);
+
+let c=10;
+let d=++c;
+console.log("c=>"+c+"d=>"+d)
