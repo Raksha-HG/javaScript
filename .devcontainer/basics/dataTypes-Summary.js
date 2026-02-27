@@ -26,3 +26,12 @@ let myObj={
 const myFunc=function(){
     console.log("hello world");
 }
+
+
+/***********************************MEMORY******************************/
+
+//STACK(PRIMITIVE)   HEAP(NON-PRIMITIVE)
+
+//STACK ,,VARIABLE GIVES COPY 
+
+//HEAP ,,VARIABLE REFERENCE THE SAME MEMORY LOC
