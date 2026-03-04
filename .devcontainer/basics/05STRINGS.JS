@@ -29,3 +29,9 @@ console.log(newSting1.trim());
 const url="https://hitesh.com/hitesh%20choudary"
 
 console.log(url.replace('%20','-'));
+
+const score=90  
+
+const balance= new Number(700);
+
+console.log(balance)
